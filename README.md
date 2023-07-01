@@ -1,5 +1,7 @@
 # ProjetoYOLOv5
 
+Teste da utilização do YoloV5 com data customizada
+
 Referências utilizadas:
   - https://github.com/ultralytics/yolov5
   - https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/
